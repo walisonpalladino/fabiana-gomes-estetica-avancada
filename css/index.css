@@ -1,39 +1,34 @@
-        * {
-            padding: 0;
-            margin: 0;
-        }
-        body {
-            background-color: rgb(250, 220, 250);
-        }
-        .cabecalho {
-            background-color: rgb(255, 255, 255);
-            text-align: center;
-        }
-        .menu {
-            background-color: rgba(250, 0, 200, 0.500);
-            text-align: center;
-        }
-        .menu a{
-            color: rgb(255, 255, 255);
-            padding: 15px 15px;
-            text-decoration: none;
-        }
-        .secao1 {
-            float: left;
-            width: 30%;
-        }
-        .secao2 img{
-            border-radius: 0 50px 0 50px;
-        }
-        .secao2 {
-            width: auto;
-        }
-        .rodape {
-            background-color:  rgb(250, 0, 200, 0.500);
-            text-align: center;
-        }
-        .rodape a{
-            color: rgb(255, 255, 255);
-            padding: 15px 15px;
-            text-decoration: none;
-        }
+* {
+    color: rgb(125, 0, 125);
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image:url(../img/background-pink-alt.png);
+    background-size: cover;
+}
+.cabecalho {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.menu {
+    background-color: rgba(250, 0, 200, 0.500);
+    text-align: center;
+}
+a {
+    color: rgb(100, 0, 100);
+    padding: 20px;
+    text-decoration: none;
+}
+.secao1 {
+    float: left;
+    width: 30%;
+}
+.secao2 img{
+    border-radius: 0 100px 0 100px;
+    border-color: rgb(125, 0, 125, 0.050);
+    border-style: ridge;
+}
+.secao2 {
+    width: auto;
+}
