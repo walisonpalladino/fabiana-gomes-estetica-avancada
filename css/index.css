@@ -5,12 +5,10 @@
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
-header img {
-
-}
 body {
     background-image:url(../img/background-pink-style.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 .cabecalho {
     background-color: rgb(255, 255, 255, 0.250);
@@ -29,8 +27,16 @@ a {
     padding: 1.5%;
     text-decoration: none;
 }
-h1, h2, h3, p {
+h1, h3, p {
     margin: 15px 10px 15px 10px;
+}
+.menu2 {
+    background-color: rgba(250, 0, 200, 0.500);
+    text-align: center;
+    height: 40px;
+}
+h2{
+    padding: 5px;
 }
 .secao1 {
     float: left;
@@ -57,4 +63,21 @@ footer {
 .icon-rotate {
     width: 14px;
     transform: scaleX(-1);
+}
+.botaoSup {
+    background-color: rgba(250, 0, 200, 0.300);
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+.botaoSup:hover {
+    color: rgb(255, 255, 255, 0.500);
+    background-color: rgb(255, 255, 255, 0.250);
+}
+.botaoInf {
+    background-color: rgba(250, 0, 200, 0.300);
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+.botaoInf:hover {
+    background-color: rgba(255, 255, 255, 0.25);
 }
