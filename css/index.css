@@ -13,7 +13,7 @@ body {
     background-size: cover;
 }
 .cabecalho {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255, 0.250);
     text-align: center;
     padding: 15px;
 }
