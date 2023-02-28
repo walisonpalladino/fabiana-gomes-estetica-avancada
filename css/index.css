@@ -3,6 +3,10 @@
     padding: 0;
     margin: 0;
     text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+header img {
+
 }
 body {
     background-image:url(../img/background-pink-style.jpg);
@@ -30,7 +34,7 @@ h1, h2, h3, p {
 }
 .secao1 {
     float: left;
-    width: 30%;
+    width: 50%;
 }
 .secao2 img{
     border-radius: 100px 100px 0 100px;
@@ -48,9 +52,9 @@ footer {
     padding: 10px;
 }
 .icon {
-    width: 12px;
+    width: 14px;
 }
 .icon-rotate {
-    width: 12px;
+    width: 14px;
     transform: scaleX(-1);
 }
