@@ -4,21 +4,28 @@
     margin: 0;
 }
 body {
-    background-image:url(../img/background-pink-alt.png);
+    background-image:url(../img/background-pink-style.jpg);
     background-size: cover;
 }
 .cabecalho {
     background-color: rgb(255, 255, 255);
     text-align: center;
+    padding: 15px;
 }
 .menu {
     background-color: rgba(250, 0, 200, 0.500);
     text-align: center;
+    height: 20px;
+    padding: 10px;
 }
 a {
+    font-size: 18px;
     color: rgb(100, 0, 100);
-    padding: 20px;
+    padding: 5%;
     text-decoration: none;
+}
+h2, p {
+    margin: 15px 10px 15px 10px;
 }
 .secao1 {
     float: left;
@@ -28,7 +35,17 @@ a {
     border-radius: 100px 100px 0 100px;
     border-color: rgb(125, 0, 125, 0.050);
     border-style: ridge;
+    margin: 15px 10px 15px 10px;
 }
 .secao2 {
     width: auto;
+}
+footer {
+    background-color: rgba(250, 0, 200, 0.500);
+    text-align: center;
+    height: 20px;
+    padding: 10px;
+}
+.icon {
+    width: 12px;
 }
