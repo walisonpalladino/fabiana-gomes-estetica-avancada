@@ -88,18 +88,20 @@ footer {
     border: solid 1px rgba(0, 0, 0, 0.150);
 }
 .botaoInf {
-    background-color: rgba(250, 0, 200, 0.100);
+    background-color: rgba(250, 0, 200, 0.200);
     padding: 5px 15px;
     border-radius: 10px;
     border: solid 1px rgb(0, 0, 0, 0.250);
 }
 .botaoInf:hover {
-    background-color: rgba(255, 255, 255, 0.250);
+    background-color: rgba(255, 255, 255, 0.100);
     border: solid 1px rgba(0, 0, 0, 0.100);
 }
 .iconPro {
-    width: 40px;
+    width: 50px;
 }
 .imgPro {
-    width: 10%;
+    width: 20%;
+    border-radius: 100px;
+    padding: 10px 10px 20px 10px;
 }
