@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Maven+Pro&display=swap');
 * {
     color: rgb(125, 0, 125);
     padding: 0;
     margin: 0;
     text-align: center;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Maven Pro', sans-serif;
 }
 body {
     background-image:url(../img/background-pink-style.jpg);
@@ -45,10 +46,10 @@ h2{
     padding: 5px;
 }
 h1 {
-    margin: 20px 15px 20px 15px;
-    letter-spacing: 7.5px;
+    margin: 15px 10px 15px 10px;
+    letter-spacing: 10px;
     font-family:monospace;
-    font-size: 200%;
+    font-family: 'Abel', sans-serif;
 }
 .secao1 {
     float: left;
