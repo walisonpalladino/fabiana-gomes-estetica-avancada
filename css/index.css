@@ -113,6 +113,7 @@ footer {
 }
 .iconPro {
     width: 50px;
+    margin-bottom: 1px;
 }
 .imgPro {
     width: 20%;
@@ -128,4 +129,7 @@ footer {
     padding: 7px 22px;
     border-radius: 10px;
     background-color: rgb(255, 255, 255, 0.500);
+}
+.procedTitle {
+    margin: 1px;
 }
