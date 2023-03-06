@@ -117,10 +117,30 @@ footer {
     width: 50px;
     margin-bottom: 1px;
 }
-.imgPro {
-    width: 20%;
+.typesproced {
+    display: inline;
+}
+.imgProLeft {
+    width: 50%;
     border-radius: 100px;
     padding: 10px 10px 20px 10px;
+}
+.imgProRight {
+    width: 50%;
+    border-radius: 100px;
+    padding: 10px 10px 20px 10px;
+}
+.div01{
+    display: inline-block;
+    width: 30%;
+}
+.div02 {
+    width: 30%;
+    display: inline-block;
+}
+.div03 {
+    display: inline-block;
+    width: 30%;
 }
 .botaoCont {
     padding: 5px 20px;
