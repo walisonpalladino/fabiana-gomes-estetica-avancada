@@ -40,7 +40,7 @@ h4 {
     letter-spacing: 2px;;
 }
 h3 {
-    margin: 15px 10px 15px 10px;
+    margin: 10px 5px 10px 5px;
     font-size: 200%;
     font-weight: 100;
     letter-spacing: 2px;
@@ -113,34 +113,12 @@ footer {
     background-color: rgba(255, 255, 255, 0.2500);
     border: solid 1px rgba(0, 0, 0, 0.050);
 }
-.iconPro {
-    width: 50px;
-    margin-bottom: 1px;
-}
 .typesproced {
     display: inline;
 }
-.imgProLeft {
-    width: 50%;
-    border-radius: 100px;
-    padding: 10px 10px 20px 10px;
-}
-.imgProRight {
-    width: 50%;
-    border-radius: 100px;
-    padding: 10px 10px 20px 10px;
-}
-.div01{
+.textDescription {
+    width: 100%;
     display: inline-block;
-    width: 30%;
-}
-.div02 {
-    width: 30%;
-    display: inline-block;
-}
-.div03 {
-    display: inline-block;
-    width: 30%;
 }
 .botaoCont {
     padding: 5px 20px;
@@ -151,7 +129,4 @@ footer {
     padding: 7px 22px;
     border-radius: 10px;
     background-color: rgb(255, 255, 255, 0.500);
-}
-.procedTitle {
-    margin: 1px;
 }
