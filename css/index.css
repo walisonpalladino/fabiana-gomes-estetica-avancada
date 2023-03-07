@@ -64,30 +64,22 @@ h1 {
 .secao1 {
     display: inline;
     float: inline-start;
-    width: 50%;
+    width: 100%;
     margin: 25px;
 }
 .secao2 img{
     display: inline;
     float: inline-end;
+    width: 60%;
     border-radius: 100px 100px 100px 100px;
     margin: 15px;
 }
-.secao2 {
-    width: auto;
-}
+
 footer {
     background-color: rgba(250, 0, 200, 0.400);
     text-align: center;
     height: 20px;
     padding: 10px;
-}
-.icon {
-    width: 14px;
-}
-.icon-rotate {
-    width: 14px;
-    transform: scaleX(-1);
 }
 .botaoSup {
     background-color: rgba(250, 0, 200, 0.20);
@@ -121,12 +113,12 @@ footer {
     display: inline-block;
 }
 .botaoCont {
-    padding: 5px 20px;
+    padding: 2px 10px;
     border: solid 1px rgb(255, 255, 255, 0.100);
 }
 .botaoCont:hover {
     color: rgba(130, 130, 130, 0.5);
-    padding: 7px 22px;
+    padding: 4px 11px;
     border-radius: 10px;
     background-color: rgb(255, 255, 255, 0.500);
 }
