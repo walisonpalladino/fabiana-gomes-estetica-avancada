@@ -71,7 +71,7 @@ h1 {
     display: inline;
     float: inline-end;
     width: 30%;
-    border-radius: 0px 100px 100px 100px;
+    border-radius: 50%;
     margin: 15px;
 }
 
@@ -108,9 +108,18 @@ footer {
 .typesproced {
     display: inline;
 }
+.procedTitle {
+    text-decoration: underline;
+}
 .textDescription {
-    width: 100%;
+    text-align: center;
+    width: 80%;
     display: inline-block;
+}
+.procedList {
+    list-style-type: none;
+    text-align: left;
+    margin: 0 30% 0 30%;
 }
 .botaoCont {
     padding: 2px 10px;
@@ -122,3 +131,22 @@ footer {
     border-radius: 10px;
     background-color: rgb(255, 255, 255, 0.500);
 }
+.cliente {
+    margin: 1%;
+    width: 10%;
+    border-radius: 50%;
+}
+.depoimentos {
+    text-align: center;
+    margin: 2% 15% 5% 15%;;
+}
+.divDep {
+    margin: 0 10% 0 10%;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.secao4 {
+    text-align: left;
+    margin: 0 10% 0 10%;
+}
+
