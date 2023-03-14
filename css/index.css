@@ -17,7 +17,7 @@ body {
     padding: 15px;
 }
 .menu {
-    background-color: rgba(250, 0, 200, 0.400);
+    background-image: linear-gradient(rgba(250, 0, 200, 0.400), rgba(250, 100, 200, 0.400)) ;
     text-align: center;
     height: 20px;
     padding: 10px;
@@ -47,7 +47,7 @@ h3 {
     font-family: 'Satisfy', cursive;
 }
 .menu2 {
-    background-color: rgba(250, 0, 200, 0.400);
+    background-image: linear-gradient(rgba(250, 0, 200, 0.400), rgba(250, 100, 200, 0.400)) ;
     text-align: center;
     height: 40px;
 }
@@ -57,26 +57,23 @@ h2 {
 h1 {
     margin: 15px 10px 15px 10px;
     font-size: 150%;
-    font-weight: 00;
     letter-spacing: 8px;
     font-family: 'Abel', sans-serif;
 }
 .secao1 {
     display: inline;
-    float: inline-start;
     width: 100%;
     margin: 0 10% 0 10%;
 }
 .secao2 img{
     display: inline;
-    float: inline-end;
     width: 30%;
     border-radius: 50%;
     margin: 50px 0 0 0;
 }
 
 footer {
-    background-color: rgba(250, 0, 200, 0.400);
+    background-image: linear-gradient(rgba(250, 0, 200, 0.400), rgba(250, 100, 200, 0.400)) ;
     text-align: center;
     height: 20px;
     padding: 10px;
