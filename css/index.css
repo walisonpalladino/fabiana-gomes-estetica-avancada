@@ -159,10 +159,14 @@ footer {
     background-color: rgb(255, 255, 255, 0.4);
     border-radius: 50px;
     padding: 1%;
-    text-align: center;
     margin: 0 10% 0 10%;
 }
 .descricao {
     text-align: justify;
     margin: 0 10% 0 10%;
+}
+.paragWelcome {
+    padding: 1%;
+    margin: 2%;
+    text-align: justify;
 }
