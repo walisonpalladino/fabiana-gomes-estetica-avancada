@@ -85,6 +85,7 @@ footer {
     padding: 10px;
 }
 .botaoSup {
+    box-shadow: 2px 2px 2px rgb(175, 175, 175);
     background-color: rgba(250, 0, 200, 0.20);
     padding: 1px 5px;
     border-radius: 10px;
@@ -136,6 +137,7 @@ footer {
     background-color: rgb(255, 255, 255, 0.500);
 }
 .cliente {
+    box-shadow: 2px 2px 2px rgb(175, 175, 175);
     margin: 1%;
     width: 20%;
     border-radius: 50%;
@@ -152,6 +154,9 @@ footer {
     background-color: rgba(255, 255, 255, 0.4);
 }
 .secao4 {
+    box-shadow: 2px 2px 2px rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255, 0.4);
+    border-radius: 50px;
     text-align: center;
     margin: 0 10% 0 10%;
 }
