@@ -50,6 +50,7 @@ h3 {
     font-family: 'Satisfy', cursive;
 }
 .menu2 {
+    text-shadow: 2px 2px 2px rgb(200, 200, 200);
     box-shadow: 2px 2px 2px rgb(200, 200, 200);
     background-image: linear-gradient(rgba(250, 0, 200, 0.400), rgba(250, 100, 200, 0.400)) ;
     text-align: center;
@@ -124,7 +125,7 @@ footer {
 .procedList {
     list-style-type: none;
     text-align: left;
-    margin: 0 30% 0 30%;
+    margin: 0 20% 0 20%;
 }
 .botaoCont {
     padding: 2px 10px;
