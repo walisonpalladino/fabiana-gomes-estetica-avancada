@@ -14,3 +14,8 @@ function showSlides() {
   slides[slideIndex - 1].style.display = "block";
   setTimeout(showSlides, 10000); // Change image every 5 seconds
 }
+
+window.addEventListener("load", function() {
+    var whatsappLink = document.querySelector(".whatsapp");
+    whatsappLink.setAttribute("href", "https://api.whatsapp.com/send?phone=NUMERO_DO_TELEFONE&text=Olá%2C%20gostaria%20de%20mais%20informações.");
+  });
