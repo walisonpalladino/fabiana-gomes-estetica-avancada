@@ -13,9 +13,11 @@ body {
 }
 .cabecalho {
     text-shadow: 2px 2px 2px rgb(200, 200, 200);
-    background-color: rgb(255, 255, 255, 0.300);
+    
     text-align: center;
     padding: 15px;
+    max-width: 80%;
+    margin: auto;
 }
 .menu {
     box-shadow: 2px 2px 2px rgb(200, 200, 200);
