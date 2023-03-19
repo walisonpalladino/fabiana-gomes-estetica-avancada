@@ -216,6 +216,7 @@ footer {
     }
 }
 .secao5 img{
+    box-shadow: 2px 2px 2px rgb(200, 200, 200);
     width: 200%;
     border-radius: 50px;
 }
