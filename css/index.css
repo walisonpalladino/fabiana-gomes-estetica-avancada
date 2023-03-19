@@ -35,6 +35,10 @@ p {
     text-align: center;
     text-indent: 25px;
 }
+h5 {
+    font-size: 100%;
+    
+}
 h4 {
     padding: 20px;
     font-size: 150%;
@@ -143,14 +147,21 @@ footer {
     width: 20%;
     border-radius: 50%;
 }
+.secao3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .depoimentos {
     text-align: center;
-    margin: 2% 15% 5% 15%;;
+    margin: 2% 15% 5% 15%;
+    font-size: 100%;
 }
 .divDep {
     box-shadow: 2px 2px 2px rgb(200, 200, 200);
-    padding: 1%;
-    margin: 1% 10% 1% 10%;
+    width: 400px;
+    height: 600px;
+    margin: 0 1% 0 1%;
     border-radius: 50px;
     background-color: rgba(255, 255, 255, 0.4);
 }
