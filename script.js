@@ -17,5 +17,5 @@ function showSlides() {
 
 window.addEventListener("load", function() {
     var whatsappLink = document.querySelector(".whatsapp");
-    whatsappLink.setAttribute("href", "https://api.whatsapp.com/send?phone=NUMERO_DO_TELEFONE&text=Olá%2C%20gostaria%20de%20mais%20informações.");
+    whatsappLink.setAttribute("href", "https://api.whatsapp.com/send?phone=5531999021027&text=Olá!%20Estou%20no%20seu%20site%20e%20gostaria%20de%20mais%20informações!");
   });
