@@ -271,9 +271,9 @@ footer {
     position: fixed;
     bottom: 5px;
     right: 5px;
-    line-height: 60px;
+    line-height: 30px;
     z-index: 100;
 }
 .whatsapp img{
-    width: 60px;
+    width: 80px;
 }
