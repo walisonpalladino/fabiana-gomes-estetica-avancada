@@ -63,7 +63,7 @@ h3 {
     height: 50px;
 }
 h2 {
-    font-size: 35px;
+    font-size: 30px;
     padding: 5px;;
 }
 h1 {
@@ -276,4 +276,21 @@ footer {
     width: 60%;
     box-shadow: 2px 2px 2px rgb(200, 200, 200);
     border-radius: 50px;
+}
+#campoNome, #campoPhone, #campoMail{
+    border-radius: 10px;
+    height: 20px;
+}
+#areaText {
+    border-radius: 15px;
+}
+label {
+    font-size: 20px;
+}
+.myChannels {
+    box-shadow: 2px 2px 2px rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255, 0.6);
+    border-radius: 50px 0 0 0;
+    padding: 1% 0 5% 0;
+    margin: 0 10px 0 10px;
 }
